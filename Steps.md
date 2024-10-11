@@ -1,4 +1,4 @@
-# Power-BI-Report-Schedule-Refresh-With-Free-Account
+# Schedule Refresh To Power BI Report Based on Excel File With Free Account
 
 This guide outlines the steps to automate the connection between an Excel file at your computer and Power BI using Google Drive for PC and Power BI's web connector. By the end of this process, you'll be able to schedule a refresh in Power BI to automatically pull updated data from Google Sheets.
 
