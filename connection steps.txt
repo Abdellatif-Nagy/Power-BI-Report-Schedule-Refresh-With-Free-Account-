@@ -1,0 +1,12 @@
+
+1- download google drive for pc
+2- make your file in a folder and turn sync with drive to this folder 
+3- copy the link of this excel file 
+4- Identify the File ID: The file ID is the part of the URL between /d/ and /edit.
+5-the final connection link----> https://docs.google.com/spreadsheets/d/<Sheet_ID>/gviz/tq?tqx=out:csv
+6- choose web connector in power bi
+7- after finishing the report publish it 
+8- in "my workspace" click to semantic model data setting and edit its credintials
+9- sign in google account that has the excel file
+10 - make schedule refresh to this semantic model
+12 - check your published website that has newest data
